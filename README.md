@@ -48,6 +48,7 @@ Fake news detection is a critical NLP task. The goal is to classify news as Fake
 
 ## 💻 Demo
 Gradio-based UI for real-time prediction
+https://drive.google.com/file/d/1wm3rQ3FKgem9bKjjyoqk1dQuZcovn5SC/view?usp=drive_link
 
 ---
 
