@@ -52,7 +52,7 @@ Gradio-based UI for real-time prediction
 ---
 
 ## 📂 Files
-- 
+- Fake_News_Detection_using_BERT.ipynb
 - README.md
 
 ---
